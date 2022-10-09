@@ -3,7 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]([https://twitter.com/DannyPicuasi])
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/daniel-picuasi-duque/])
-[![Resume CV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)([https://github.com/dpicuasi/dpicuasi/blob/main/CV_ING_DANIEL_PICUASI_DP.pdf])]
+[![Resume CV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]([https://github.com/dpicuasi/dpicuasi/blob/main/CV_ING_DANIEL_PICUASI_DP.pdf])
 
 
 
