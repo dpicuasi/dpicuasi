@@ -1,5 +1,5 @@
 
-# HI, I'M DANIEL PICUASI
+# Hi, I'm Daniel Picuasi
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]([https://twitter.com/DannyPicuasi])
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/daniel-picuasi-duque/])
@@ -7,9 +7,9 @@
 
 
 
-- 👨🏽‍💻 Hi, i’m currently a **Senior Java Developer** at **large fintech company** working on highload enterprise projects. 
+- 👨🏽‍💻 I’m currently a **Senior Java Developer** at **large fintech company** working on highload enterprise projects. 
 - 🚀 I have over 10 years of work experience in software developer
-- 🌱 I’m currently Supabase, Architecture of Microservice with Spring boot, Flutter.
+- 🌱 I’m currently learning: Supabase, Architecture of Microservice with Spring boot, Flutter.
 - 📫 Please email via danyeledg@gmail.com to reach me.
 - 💬 Ask me about anything, I am happy to help
 
