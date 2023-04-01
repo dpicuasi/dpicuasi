@@ -17,8 +17,8 @@
   
 **Languages and Tools:**  
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/dpicuasi)](https://github.com/dpicuasi) 
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/tuusuario)](https://github.com/tuusuario)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&link=https://github.com/dpicuasi)](https://github.com/dpicuasi)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/dpicuasi)](https://github.com/dpicuasi)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/dpicuasi)](https://github.com/dpicuasi) 
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white&link=https://github.com/dpicuasi)](https://github.com/dpicuasi) 
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat&logo=apache-kafka&link=https://github.com/dpicuasi)](https://github.com/dpicuasi) 
