@@ -7,11 +7,11 @@
 
 
 
-- 👨🏽‍💻 I’m currently a **Senior Java Developer** at **large fintech company** working on highload enterprise projects. 
-- 🚀 I have over 10 years of work experience in software developer
-- 🌱 I’m currently learning: Supabase, Architecture of Microservice with Spring boot, Flutter.
-- 📫 Please email via danyeledg@gmail.com to reach me.
-- 💬 Ask me about anything, I am happy to help
+- 👨🏽‍💻 I’m currently a Senior Java Developer at a large fintech company, where I specialize in developing high-load enterprise projects.
+- 🚀 With over 10 years of experience in software development, I bring a wealth of knowledge and expertise to every project I undertake.
+- 🌱 Currently, I’m expanding my skill set by diving into Supabase for database management, exploring the architecture of microservices with Spring Boot, and delving into Flutter for cross-platform app development.
+- 📫 Feel free to reach out to me via email at danyeledg@gmail.com.
+- 💬 Don't hesitate to ask me about anything—I'm always eager to lend a helping hand.
 
  <br />   
   
