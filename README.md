@@ -1,7 +1,7 @@
 
 # Hi, I'm Daniel Picuasi - Kintydev
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DannyPicuasi)
+[![X Badge](https://img.shields.io/badge/X-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DannyPicuasi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/daniel-picuasi-duque/)
 [![Resume Badge](https://img.shields.io/badge/CV-Resume-informational?style=flat&logo=book&logoColor=white&color=important)](https://github.com/dpicuasi/dpicuasi/blob/main/CV_ING_DANIEL_PICUASI_DP.pdf)
 
