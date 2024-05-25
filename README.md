@@ -7,8 +7,8 @@
 
 
 
-- 👨🏽‍💻 I'm currently a senior Java developer in a services company, where I specialize in the development of business projects in the automotive sector.
-- 🚀 10+ years of experience in software development, he brings a wealth of knowledge and experience to every project I am assigned.
+- 👨🏽‍💻 I am currently a senior Java developer in a backoffice services company, where I am in charge of maintaining the business ERP, maintaining the Electronic Invoicing modules and developing new functionalities in the vehicle workshop app.
+- 🚀 12+ years of experience in software development, he brings a wealth of knowledge and experience to every project I am assigned.
 - 🌱 Currently, I’m expanding my skill set by diving into Supabase for database management, exploring the architecture of microservices with Spring Boot, and delving for cross-platform app development.
 - 📫 Feel free to reach out to me via email at danyeledg@gmail.com.
 - 💬 Don't hesitate to ask me about anything—I'm always eager to lend a helping hand.
