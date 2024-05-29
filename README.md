@@ -6,12 +6,11 @@
 [![Resume Badge](https://img.shields.io/badge/CV-Resume-informational?style=flat&logo=book&logoColor=white&color=important)](https://github.com/dpicuasi/dpicuasi/blob/main/CV_ING_DANIEL_PICUASI_DP.pdf)
 
 
-
-- 👨🏽‍💻 I am currently a senior Java developer in a backoffice services company, where I am in charge of maintaining the business ERP, maintaining the Electronic Invoicing modules and developing new functionalities in the vehicle workshop app.
-- 🚀 12+ years of experience in software development, he brings a wealth of knowledge and experience to every project I am assigned.
-- 🌱 Currently, I’m expanding my skill set by diving into Supabase for database management, exploring the architecture of microservices with Spring Boot, and delving for cross-platform app development.
-- 📫 Feel free to reach out to me via email at danyeledg@gmail.com.
-- 💬 Don't hesitate to ask me about anything—I'm always eager to lend a helping hand.
+-👨🏽‍💻 Senior Java Developer at a backoffice services company, where I am responsible for maintaining the ERP, keeping the Electronic Invoicing modules up to date, and developing new functionalities in the vehicle workshop mobile app, with projects in Angular.
+-🚀 With over 12 years of experience in software development, I bring a wealth of knowledge and expertise to every project I am assigned.
+-🌱 Always learning new things, I am currently diving into Supabase, Next.js, exploring microservices architecture with Spring Boot, and working on projects in Kotlin.
+-📫 Contact me via email at: danyeledg@gmail.com
+-💬 If I'm not creating new bugs, I might be taking care of my colorful geraniums or playing my guitar.
 
  <br />   
   
